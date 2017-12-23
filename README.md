@@ -1,21 +1,21 @@
 # Polarith AI
 
-![](polarith-ai.png)
+![](Images/polarith-ai.png)
 
-[Polarith AI](http://polarith.com/ai/) is a comprehensive system for
-creating autonomously moving characters for your game or simulation. Being the
-result of years of research, AI experience and intense development, it uses new
-context steering algorithms to overcome the issues and difficulties classic
-steering approaches suffer from.
+[Polarith AI](http://polarith.com/ai/) offers all you need for achieving
+state-of-the-art movement AI with just a few clicks. Design complex movement
+behaviours and create immersive games or astonishing simulations by taking
+advantage of the sophisticated workflow.
 
-This repository belongs to the official
-[Unity plugin](https://www.assetstore.unity3d.com/#!/content/71465).
-It contains additional content you will find useful if you want to write your
-own behaviours. So if you want to extent the plugin to your needs, have a closer
-look at the source code we publish here and learn how easy behaviours can be
-implemented using the incredibly flexible context steering approach.
+This repository belongs to the official Unity plugin ([Free
+version](https://www.assetstore.unity3d.com/en/#!/content/92029) and [Pro
+version](https://www.assetstore.unity3d.com/#!/content/71465)). It contains
+additional content you may find useful if you want to write own behaviours. So
+if you want to extent the plugin for your needs, have a closer look at the
+source code we publish here and learn how relatively easy behaviours can be
+implemented.
 
-**All sources require Unity and the plugin Polarith AI in order to work
+**All sources require Unity and a version of the plugin Polarith AI to work
 properly.**
 
 
@@ -32,4 +32,4 @@ allowed to resell any parts of Polarith AI.
 Besides giving you the chance to look what happens under the hood of our
 technology, the [issue tracker](https://github.com/Polarith/AI/issues) of this
 repository offers you the possibility to request features and to track bugs.
-With its help, you are able to retrace our development progress.
+With its help, you can retrace our development progress.
